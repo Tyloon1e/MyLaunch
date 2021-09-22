@@ -1,0 +1,8 @@
+main: me.Tyloon1e.MyLaunch.MyLaunch
+name: MyLaunch
+description: MyLaunch launches you in the air.
+version: 1.0.0
+author: Tyloon1e
+commands:
+  mylaunch:
+    aliases: launch
